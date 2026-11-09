@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #f7f5ef;
+  color: #14342B;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+select {
+  padding: 6px 10px;
+  border: 2px solid #C2A24C;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+canvas {
+  background: white;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.3rem;
+  }
+  body {
+    padding: 12px;
+  }
+}

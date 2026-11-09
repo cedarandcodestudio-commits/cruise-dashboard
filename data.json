@@ -1,0 +1,4 @@
+[
+  { "traveler": "Traveler A", "cabin": "Cabin 1", "month": "Jan", "paid": 400, "due": 1200 },
+  { "traveler": "Traveler B", "cabin": "Cabin 2", "month": "Feb", "paid": 650, "due": 1200 }
+]
